@@ -6,6 +6,7 @@ public class One {
 		
 		System.out.println("this is github");
 		System.out.println("2nd line");
+		System.out.println("new changes 3rd line");
 	}
 
 }
