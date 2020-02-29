@@ -2,6 +2,7 @@ package Coaching;
 
 public class A {
 
+	int x=10,y=20,c;
 	 int j=433;
 	 void m1()
 	{
